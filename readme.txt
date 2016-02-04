@@ -1,7 +1,7 @@
 
-# Mid Side Convert Vst 3 Plugin
+# Mid Side Converter Vst 3 Plugin
 
-I had use juce Library. 
+this plugins  used juce Library. 
 
  juce 4 (  https://www.juce.com/ )
 
