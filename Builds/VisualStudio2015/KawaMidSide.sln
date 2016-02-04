@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{F9FDD3D3-048F-5177-DF2E-F8658EC70E1C}") = "KawaMidSide", "KawaMidSide.vcxproj", "{9F84BB35-B97E-909C-103A-9EDDD90CF273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F84BB35-B97E-909C-103A-9EDDD90CF273}.Debug|x64.ActiveCfg = Debug|x64
+		{9F84BB35-B97E-909C-103A-9EDDD90CF273}.Debug|x64.Build.0 = Debug|x64
+		{9F84BB35-B97E-909C-103A-9EDDD90CF273}.Release|x64.ActiveCfg = Release|x64
+		{9F84BB35-B97E-909C-103A-9EDDD90CF273}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
