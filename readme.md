@@ -5,4 +5,4 @@ this plugins  used juce Library.
 
  juce 4 (  https://www.juce.com/ )
 
-![screenshot](kawaMidSide.png "sample")
+![screenshot](image/kawaMidSide.png "sample")
