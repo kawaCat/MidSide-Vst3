@@ -1,5 +1,5 @@
 
-# Mid Side Converter Vst 3 Plugin
+# Mid Side Vst3 Plugin
 
 this plugins  used juce Library.
 
